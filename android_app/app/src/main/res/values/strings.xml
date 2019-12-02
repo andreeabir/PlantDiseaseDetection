@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiseaseDetector</string>
+    <string name="server_url">"http://f7b181d1.ngrok.io/api/test"</string>
+    <string name="UploadImage"> Upload an image of your crop and let me analyse it for you! </string>
+</resources>
